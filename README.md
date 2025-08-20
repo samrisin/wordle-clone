@@ -1,4 +1,4 @@
-**Wordle Clone**
+***Wordle Clone***
 A web-based version of Wordle that I built using vanilla HTML, CSS, and JavaScript. It's got all the core features you'd expect - the color-coded tiles, virtual keyboard, and proper word validation through a dictionary API.
 What it does
 This is basically Wordle but in your browser. You get 6 tries to guess a 5-letter word, and the tiles change colors to give you hints:
